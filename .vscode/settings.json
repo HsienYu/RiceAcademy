@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/chenghsienyu/opt/anaconda3/envs/rice/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
